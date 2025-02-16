@@ -7,8 +7,8 @@ __pycache__/
 *.py[cod]
 
 # Ignore virtual environment directories
-venv/
-env/
+.venv/
+.env/
 
 # Ignore system files
 .DS_Store
